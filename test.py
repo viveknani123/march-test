@@ -1,2 +1,2 @@
-print("hello devops")
-print("hello jenkins")
+printhello devops")
+printhello jenkins")
